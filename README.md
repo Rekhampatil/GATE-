@@ -1,2 +1,2 @@
-# GATE-
+# GATE
 Preparation for GATE exam 
